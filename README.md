@@ -1,0 +1,1 @@
+# php-pdo-firebird-snipets
